@@ -1,0 +1,13 @@
+.App {
+  background-color: coral;
+  text-align: center;
+  height: 50vh;
+  margin: 0;
+  padding: 10;
+}
+
+li{
+    list-style: none;
+}
+
+
