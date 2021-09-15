@@ -1,0 +1,18 @@
+.App{
+    display: grid;
+    justify-content: center;
+    background: darkblue;
+    width: 600px;
+    height: 500px;
+}
+
+
+.h1{
+    display: grid;
+    justify-content: center;
+}
+
+.body{
+    background: antiquewhite;
+    border: dotted;
+}
